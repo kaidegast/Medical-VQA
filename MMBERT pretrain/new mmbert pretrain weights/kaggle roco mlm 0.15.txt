@@ -1,0 +1,192 @@
+
+
+
+Roco Pretraining 2021-10-23 12:37:22.880340
+
+epoch 0
+epoch_train_loss: 0.31216976,
+epoch_val_loss: 0.2597023,
+epoch_train_acc: 27.61341291282439,
+epoch_val_acc: 34.20183588939886,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 1
+epoch_train_loss: 0.22867483,
+epoch_val_loss: 0.18880267,
+epoch_train_acc: 40.277835472659554,
+epoch_val_acc: 48.08968709911317,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 2
+epoch_train_loss: 0.18603776,
+epoch_val_loss: 0.16840509,
+epoch_train_acc: 48.48518438974373,
+epoch_val_acc: 52.352077968823544,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 3
+epoch_train_loss: 0.16671571,
+epoch_val_loss: 0.15224369,
+epoch_train_acc: 52.243274335056626,
+epoch_val_acc: 55.791935843172205,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 4
+epoch_train_loss: 0.15621278,
+epoch_val_loss: 0.14429112,
+epoch_train_acc: 54.44051052658849,
+epoch_val_acc: 57.13851594010719,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 5
+epoch_train_loss: 0.14802437,
+epoch_val_loss: 0.13797846,
+epoch_train_acc: 56.078208535305066,
+epoch_val_acc: 58.34614202274824,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 6
+epoch_train_loss: 0.14253111,
+epoch_val_loss: 0.13430431,
+epoch_train_acc: 57.24232346209958,
+epoch_val_acc: 59.61231784437724,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 7
+epoch_train_loss: 0.13809535,
+epoch_val_loss: 0.13117217,
+epoch_train_acc: 57.95851823134809,
+epoch_val_acc: 59.96405861210948,
+learning_rate: 2e-05
+new best val_loss
+
+
+Roco Pretraining 2021-10-24 07:32:14.477568
+
+epoch 0
+epoch_train_loss: 0.13361822,
+epoch_val_loss: 0.12510236,
+epoch_train_acc: 58.87569246555873,
+epoch_val_acc: 61.18433940615118,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 1
+epoch_train_loss: 0.13076949,
+epoch_val_loss: 0.12176952,
+epoch_train_acc: 59.54624456215642,
+epoch_val_acc: 61.88436231275375,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 2
+epoch_train_loss: 0.12741372,
+epoch_val_loss: 0.120529965,
+epoch_train_acc: 60.29142070187336,
+epoch_val_acc: 62.02097394990796,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 3
+epoch_train_loss: 0.12497148,
+epoch_val_loss: 0.118682265,
+epoch_train_acc: 60.68707447637857,
+epoch_val_acc: 62.92550087531609,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 4
+epoch_train_loss: 0.123185374,
+epoch_val_loss: 0.1176624,
+epoch_train_acc: 61.06474491280076,
+epoch_val_acc: 62.899661528993825,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 5
+epoch_train_loss: 0.1204892,
+epoch_val_loss: 0.11669808,
+epoch_train_acc: 61.73895597610457,
+epoch_val_acc: 63.39280782190797,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 6
+epoch_train_loss: 0.11879927,
+epoch_val_loss: 0.11446177,
+epoch_train_acc: 61.993837570003954,
+epoch_val_acc: 63.18537859007834,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 7
+epoch_train_loss: 0.11705744,
+epoch_val_loss: 0.113379054,
+epoch_train_acc: 62.321475031654906,
+epoch_val_acc: 63.678851610749454,
+learning_rate: 2e-05
+new best val_loss
+
+
+Roco Pretraining 2021-10-27 12:51:54.709926
+
+epoch 0
+epoch_train_loss: 0.11568604,
+epoch_val_loss: 0.115423195,
+epoch_train_acc: 62.73627581138839,
+epoch_val_acc: 63.87490717055863,
+learning_rate: 2e-05
+
+epoch 1
+epoch_train_loss: 0.11371201,
+epoch_val_loss: 0.110852525,
+epoch_train_acc: 63.20418942336627,
+epoch_val_acc: 64.27555431599498,
+learning_rate: 2e-05
+new best val_loss
+
+epoch 2
+epoch_train_loss: 0.11279698,
+epoch_val_loss: 0.10910694,
+epoch_train_acc: 63.42011969656539,
+epoch_val_acc: 65.12223645375063,
+learning_rate: 2e-05
+new best val_loss
+
+
+Roco Pretraining 2021-10-28 00:43:28.919098
+
+epoch 0
+epoch_train_loss: 0.12113552,
+epoch_val_loss: 0.12239916,
+epoch_train_acc: 61.89984869626034,
+epoch_val_acc: 63.21508557524815,
+learning_rate: 2e-05
+
+epoch 1
+epoch_train_loss: 0.12393497,
+epoch_val_loss: 0.123089425,
+epoch_train_acc: 61.938456645880294,
+epoch_val_acc: 63.29710546745038,
+learning_rate: 2e-05
+
+epoch 2
+epoch_train_loss: 0.12304071,
+epoch_val_loss: 0.121479675,
+epoch_train_acc: 62.313382463403414,
+epoch_val_acc: 63.35630772665123,
+learning_rate: 2e-05
+
+epoch 3
+epoch_train_loss: 0.12299776,
+epoch_val_loss: 0.12315143,
+epoch_train_acc: 62.56600774122201,
+epoch_val_acc: 63.53391806372821,
+learning_rate: 2e-05
